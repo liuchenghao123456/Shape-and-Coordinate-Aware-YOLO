@@ -1,0 +1,16 @@
+path: ..
+train: data/splits/train.txt
+val: data/splits/val.txt
+test: data/splits/test.txt
+nc: 10
+names:
+  - pole
+  - signboard
+  - stairs
+  - tree
+  - two-wheeler
+  - vehicle
+  - objects
+  - people
+  - pothole
+  - road

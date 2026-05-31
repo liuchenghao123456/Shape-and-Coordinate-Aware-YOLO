@@ -1,0 +1,15 @@
+train: train/images
+val: val/images
+test: test/images
+nc: 10
+names:
+  - pole
+  - signboard
+  - stairs
+  - tree
+  - two-wheeler
+  - vehicle
+  - objects
+  - people
+  - pothole
+  - road
